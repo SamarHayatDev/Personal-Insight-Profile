@@ -1,0 +1,20 @@
+{
+  "portfolioData": [
+    {
+      "title": "Goals/Needs:",
+      "items": ["Proficiency", "Certification", "Challenges", "Contribution"]
+    },
+    {
+      "title": "Pain Points:",
+      "items": ["Understanding", "Balancing", "Resources", "Imposter Syndrome"]
+    },
+    {
+      "title": "Motivation:",
+      "items": ["Passion", "Problem-solving", "Inspiration", "Recognition"]
+    },
+    {
+      "title": "Frustration:",
+      "items": ["Technical", "Deadlines", "Feedback", "Setbacks"]
+    }
+  ]
+}
